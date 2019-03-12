@@ -1,2 +1,12 @@
-# WymLib
-个人开发学习工具类
+# 个人开发学习工具类
+*   通用ListView和GridView的Adapter
+*   通用的RecyclerView的Adapter
+*   通用的ViewPager的FragmentPagerAdapter
+*   能嵌套在滑动布局里面的ListView和GridView
+*   防止RecyclerView的item默认动画闪烁
+*   RecyclerView的item各种动画效果
+*   RecyclerView网格Item添加分割线的Decoration
+*   通用的时间处理工具
+*   通用的Toast类
+*   常用的小工具类Utils
+*   通用的网络判断
